@@ -1,6 +1,6 @@
 # 👏 jarvis-clap
 
-> *"Just a small idea... F.R.I.D.A.Y., hit it."*
+
 
 Launch **Claude** and **Spotify** with a double clap — no keyboard, no mouse, just your hands.
 
