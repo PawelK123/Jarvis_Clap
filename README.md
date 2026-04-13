@@ -1,4 +1,4 @@
-# 👏 jarvis-clap
+# 👏 Jarvis_Clap
 
 
 
@@ -10,7 +10,7 @@ Launch **Claude** and **Spotify** with a double clap — no keyboard, no mouse, 
 
 ## ✨ What it does
 
-jarvis-clap listens to your microphone in the background. When it detects **two claps in quick succession**, it:
+Jarvis_Clap listens to your microphone in the background. When it detects **two claps in quick succession**, it:
 
 1. 🎵 Opens **Spotify** and plays *Should I Stay or Should I Go* by The Clash
 2. 🤖 Opens the **Claude** desktop app
@@ -31,8 +31,8 @@ jarvis-clap listens to your microphone in the background. When it detects **two 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jarvis-clap.git
-cd jarvis-clap
+git clone https://github.com/YOUR_USERNAME/Jarvis_clap.git
+cd Jarvis_clap
 pip install -r requirements.txt
 ```
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### Run
 
 ```bash
-python jarvis_clap.py
+python Jarvis_clap.py
 ```
 
 Or double-click `uruchom.bat`.
@@ -50,7 +50,7 @@ Or double-click `uruchom.bat`.
 
 ## ⚙️ Configuration
 
-At the top of `jarvis_clap.py` you can tweak:
+At the top of `Jarvis_clap.py` you can tweak:
 
 | Variable | Default | Description |
 |---|---|---|
